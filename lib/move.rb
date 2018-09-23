@@ -16,4 +16,8 @@ def move(board, index, character ="X")
   board[index] = character
 end
 
+<<<<<<< HEAD
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+=======
+board = [ " ", " ", " ", " ", " ", " ", " ", " ", " "]
+>>>>>>> 81c9272355d8cd6ac2c9c2dfc2b1bd43ce89bb15
